@@ -1,0 +1,20 @@
+Sales Report
+Report Type: DAILY
+Date: 2026-01-14
+Generated: 1/14/2026, 7:22:58 PM
+
+SUMMARY
+Total Sales,3
+Total Items Sold,3
+Gross Revenue,900
+Total Discounts,0
+Net Revenue,900
+Total Cost,1365
+Total Profit,-465
+Profit Margin,-51.67%
+
+DETAILED SALES
+Date,Time,Sale ID,Customer,Product,Quantity,Unit Price,Discount,Subtotal,Payment Method,Status,Sold By
+1/14/2026,4:22:37 PM,6967c2cdcab3cdd23084b339,"Walk-in Customer","GEAR LEVER BM150",300,0,300,-155,split,completed,Admin User
+1/14/2026,3:07:11 PM,6967b11fe19a0fb559ad2583,"Walk-in Customer","GEAR LEVER BM150",300,0,300,-155,cash,completed,Admin User
+1/14/2026,3:06:44 PM,6967b104e19a0fb559ad2571,"Walk-in Customer","GEAR LEVER BM150",300,0,300,-155,cash,completed,Admin User
